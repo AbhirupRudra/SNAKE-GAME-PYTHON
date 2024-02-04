@@ -8,7 +8,7 @@ pygame.init()
 screen_width = 600
 screen_height = 500
 gamewindow = pygame.display.set_mode((screen_width,screen_height))
-pygame.display.set_caption("SNAKE GAME")
+pygame.display.set_caption("SNAKE GAME ~ BY ABHIRUP RUDRA")
 
 pygame.mixer.init()
 
